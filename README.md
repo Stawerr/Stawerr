@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Portuguese Army
+- 🔭 Former 1ºCb at Portuguese Army 
 - 🌱 I’m currently learning coding at ATEC
    ##
 <div align="center">
