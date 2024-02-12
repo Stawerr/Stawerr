@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 Former 1ºCb at Portuguese Army 
-- 🌱 I’m currently learning coding at ATEC
+- 🌱 Full time Developer
    ##
 <div align="center">
   <a href="https://github.com/Stawerr">
